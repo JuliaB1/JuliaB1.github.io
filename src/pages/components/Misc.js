@@ -39,11 +39,17 @@ const Misc = () => {
             <hr style={{ width: "90%" }} />
             <div style={{ display: "flex", flexDirection: "column", paddingRight: 20 }}>
                 <div style={{ paddingLeft: 50, paddingBottom: 75, paddingTop: 50 }}>
-                    <div style={bigHeader}> Writing</div>
+                    <div style={bigHeader}> Writing ✍️</div>
                     <div style={medHeader}>
                         <a href={tbb} style={{ color: "white" }}>
                             "The Brown Box", Scholastic Art and Writing Awards 2016 Short Story Submission (awarded Gold Key)
                         </a>
+                    </div>
+                </div>
+                <div style={{ paddingLeft: 50, paddingBottom: 75 }}>
+                    <div style={bigHeader}> Music Taste 🎵</div>
+                    <div style={medHeader}>
+                        I don't make music, but if you're curious, check out <a href="https://open.spotify.com/user/0kb6wsskfitamfbhom1slzzx1?si=TumZRFIASeW-QwGqB7sKng&dl_branch=1" style={{ color: "white" }}>my Spotify</a> to see/judge my music taste :)
                     </div>
                 </div>
             </div>
