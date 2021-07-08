@@ -54,7 +54,7 @@ const Landing = () => {
             </div>
             <div>
                 <div style={{ fontSize: 18, paddingTop: 60, fontFamily: "Cormorant Garamond", maxWidth: 700, margin: "auto", textAlign: "center" }}>
-                    Hi! My name is Julia :) I recently graduated from UCLA with a Bachelor of Science in Computer Science and a minor in Linguistics.
+                    Hi! :) My name is Julia (she/her). I recently graduated from UCLA with a Bachelor of Science in Computer Science and a minor in Linguistics.
                 </div>
             </div>
             <div style={{ display: "flex", flexDirection: "row", justifyContent: "center", paddingTop: 30, }}>
