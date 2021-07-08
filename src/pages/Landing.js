@@ -2,6 +2,9 @@ import * as React from "react";
 import About from "./components/About";
 import img from "../images/sfsunset.jpg";
 import downarrow from "../images/downarrow.svg";
+import fb from "../images/f_logo_RGB-Black_512.png";
+import git from "../images/GitHub-Mark-120px-plus.png";
+import linkedin from "../images/LI-In-Bug.png";
 
 const pic = {
     margin: "auto",
@@ -17,6 +20,7 @@ const pic = {
 
     objectFit: "cover"
 };
+
 
 
 const name = {
@@ -43,8 +47,12 @@ const Landing = () => {
                     Hi! I recently graduated from UCLA with a Bachelor of Science in Computer Science and a minor in Linguistics.
                 </div>
             </div>
-
-            <a href="#about" style={{ width: 30, margin: "auto", paddingRight: 50, paddingTop: 100, paddingBottom: 100 }}><img src={downarrow} /></a>
+            <div style={{ display: "flex", flexDirection: "row", justifyContent: "center", paddingTop: 20, }}>
+                <a href="https://www.facebook.com/julia.baylon.391/"><img src={fb} style={{ width: 30 }} /></a>
+                <a href="https://github.com/JuliaB1"><img src={git} style={{ width: 30, height: 30, paddingLeft: 15, paddingRight: 15 }} /></a>
+                <a href="https://www.linkedin.com/in/julia-baylon/"><img src={linkedin} style={{ width: 30, height: 28, paddingTop: 2 }} /></a>
+            </div>
+            <a href="#about" style={{ width: 30, margin: "auto", paddingRight: 50, marginTop: 80, marginBottom: 100 }}><img src={downarrow} /></a>
             <div id="about" style={{ margin: "auto", minWidth: "80%" }}>
                 <About />
             </div>
