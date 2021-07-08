@@ -58,7 +58,7 @@ const Resume = () => {
                     <div style={bigHeader}> Education</div>
                     <div style={medHeader}>UCLA - Bachelor of Science, Computer Science & Minor in Linguistics (2021)</div>
                 </div>
-                <div style={{ paddingLeft: 50, paddingBottom: 50 }}>
+                <div style={{ paddingLeft: 50, paddingBottom: 75 }}>
                     <div style={bigHeader}> Leadership</div>
                     <div style={medHeader}>UCLA ACM-W, President (2020-2021)</div>
                     <div style={text}>Managed UCLA's ACM-W chapter during the club's temporary transition to a purely online format due to COVID-19.</div>
@@ -68,8 +68,10 @@ const Resume = () => {
                         <li>[Panelist] "Taking a Seat at the Table", UC Berkeley x Stanford x UC Davis x UCSD x UCLA Women in Computing Panel (2021)</li>
                         <li>[Panelist] UCLA Discover Engineering (2020)</li>
                     </div>
-
-
+                </div>
+                <div style={{ paddingLeft: 50, paddingBottom: 75 }}>
+                    <div style={bigHeader}> Research</div>
+                    <div style={medHeader}><a href="https://arxiv.org/pdf/2104.08350.pdf" style={{ color: "white" }}>ESTER: A Machine Reading Comprehension Dataset for Event Semantic Relation Reasoning (2021)</a></div>
                 </div>
             </div>
 
