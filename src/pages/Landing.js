@@ -2,7 +2,7 @@ import * as React from "react";
 import About from "./components/About";
 import Resume from "./components/Resume";
 
-import img from "../images/sfsunset.JPG";
+import img from "../images/sfsunset.jpg";
 import downarrow from "../images/downarrow.svg";
 import fb from "../images/f_logo_RGB-Black_512.png";
 import git from "../images/GitHub-Mark-120px-plus.png";
