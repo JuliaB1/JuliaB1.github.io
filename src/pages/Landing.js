@@ -1,4 +1,6 @@
 import * as React from "react";
+import { Helmet } from "react-helmet";
+
 import About from "./components/About";
 import Resume from "./components/Resume";
 
@@ -40,6 +42,11 @@ const Landing = () => {
     }
     return (
         <div style={{ display: "flex", flexDirection: "column", justifyContent: "center", paddingBottom: 100, scrollBehavior: "smooth" }}>
+            <Helmet>
+                <meta charSet="utf-8" />
+                <title>Julia Baylon</title>
+                <link rel="canonical" href="https://juliabaylon.netlify.app" />
+            </Helmet>
             <img src={img} style={pic} />
             <div style={name}>
                 Julia Baylon
