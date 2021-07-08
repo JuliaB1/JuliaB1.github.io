@@ -19,13 +19,13 @@ const About = () => {
                 About Me
             </div>
             <hr style={{ width: "90%" }} />
-            <div style={{ paddingBottom: 50, paddingLeft: 50 }}>
+            <div style={{ paddingBottom: 50, paddingLeft: 50, fontSize: 18, paddingRight: 10 }}>
                 <ul>
-                    <li>hi</li>
-                    <li>hi</li>
-                    <li>hi</li>
-                    <li>hi</li>
-                    <li>hi</li>
+                    <li>I'll be starting work as a software engineer at Facebook in August 2021.</li>
+                    <li>I graduated from UCLA (Go Bruins!) in 2021, with a B.S. in Computer Science and a minor in Linguistics.</li>
+                    <li>I love to cook, hike, crochet, listen to music, and watch aesthetic cooking videos on YouTube.</li>
+                    <li>I've been a Nintendo nerd since age 6 when I first played Pokémon Sapphire :)</li>
+                    <li>Milk is my favorite beverage.</li>
                 </ul>
             </div>
         </div>);
