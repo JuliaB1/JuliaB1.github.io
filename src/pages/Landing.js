@@ -3,6 +3,7 @@ import { Helmet } from "react-helmet";
 
 import About from "./components/About";
 import Resume from "./components/Resume";
+import Misc from "./components/Misc";
 
 import img from "../images/sfsunset.jpg";
 import downarrow from "../images/downarrow.svg";
@@ -67,6 +68,9 @@ const Landing = () => {
             </div>
             <div style={{ margin: "auto", width: "80%", paddingTop: 100 }}>
                 <Resume />
+            </div>
+            <div style={{ margin: "auto", width: "80%", paddingTop: 100 }}>
+                <Misc />
             </div>
 
             <div style={{ fontFamily: "Cormorant Garamond", margin: "auto", paddingTop: 100 }}>
