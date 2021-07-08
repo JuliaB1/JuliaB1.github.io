@@ -34,7 +34,7 @@ const Resume = () => {
     return (
         <div style={blackBg}>
             <div style={{ fontSize: 36, paddingTop: 50, paddingLeft: 50 }}>
-                My Resume
+                My Resume + Highlights
             </div>
             <hr style={{ width: "90%" }} />
             <div style={{ paddingLeft: 50, paddingTop: 30, paddingRight: 50 }}>
