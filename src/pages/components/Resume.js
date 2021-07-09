@@ -83,6 +83,7 @@ const Resume = () => {
                     <div style={bigHeader}> Awards</div>
                     <div style={medHeader}>UCLA Engineering Achievement Award for Student Welfare (May 2021)</div>
                     <div style={medHeader}>UCLA Regents Scholar</div>
+                    <div style={medHeader}>Gold Key, Scholastic Art and Writing Awards - Short Story (2016)</div>
                 </div>
             </div>
 
