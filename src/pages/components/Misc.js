@@ -42,7 +42,7 @@ const Misc = () => {
                     <div style={bigHeader}> Writing ✍️</div>
                     <div style={medHeader}>
                         <a href={tbb} style={{ color: "white" }}>
-                            "The Brown Box", Scholastic Art and Writing Awards 2016 Short Story Submission (awarded Gold Key)
+                            "The Brown Box", Scholastic Art and Writing Awards 2016 Short Story Submission
                         </a>
                     </div>
                 </div>
