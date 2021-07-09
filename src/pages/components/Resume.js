@@ -48,9 +48,9 @@ const Resume = () => {
                         fontSize: 18,
                         borderStyle: "solid",
                         padding: 10,
-                        fontFamily: "Cormorand Garamond"
+                        fontFamily: "Cormorant Garamond"
                     }}>
-                    Resume PDF
+                    Resume (PDF)
                 </a>
             </div>
             <div style={{ display: "flex", flexDirection: "column", paddingRight: 20 }}>
@@ -61,7 +61,13 @@ const Resume = () => {
                 <div style={{ paddingLeft: 50, paddingBottom: 75 }}>
                     <div style={bigHeader}> Leadership</div>
                     <div style={medHeader}>UCLA ACM-W, President (2020-2021)</div>
-                    <div style={text}>Managed UCLA's ACM-W chapter during the club's temporary transition to a purely online format due to COVID-19.</div>
+                    <div style={text}>Managed UCLA's ACM-W chapter during the club's temporary transition to an online format due to COVID-19.</div>
+                    <br />
+                    <div style={medHeader}>CS33 Logistical Head Learning Assistant (April 2020-June 2020)</div>
+                    <div style={text}>Managed the logistics for the CS33 Learning Assistant (LA) Program at UCLA.</div>
+                    <br />
+                    <div style={medHeader}>UCLA Regents Scholar Society Family Head (2018-2019)</div>
+                    <div style={text}>Family leader for a group of ~30 mentors + mentees.</div>
                     <br />
                     <div style={medHeader}>Panels</div>
                     <div style={{ marginLeft: 10, fontSize: 18 }}>
@@ -72,6 +78,11 @@ const Resume = () => {
                 <div style={{ paddingLeft: 50, paddingBottom: 75 }}>
                     <div style={bigHeader}> Research</div>
                     <div style={medHeader}><a href="https://arxiv.org/pdf/2104.08350.pdf" style={{ color: "white" }}>ESTER: A Machine Reading Comprehension Dataset for Event Semantic Relation Reasoning (2021)</a></div>
+                </div>
+                <div style={{ paddingLeft: 50, paddingBottom: 75 }}>
+                    <div style={bigHeader}> Awards</div>
+                    <div style={medHeader}>UCLA Engineering Achievement Award for Student Welfare (May 2021)</div>
+                    <div style={medHeader}>UCLA Regents Scholar</div>
                 </div>
             </div>
 
