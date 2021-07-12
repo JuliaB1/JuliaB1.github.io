@@ -34,7 +34,7 @@ const Resume = () => {
     return (
         <div style={blackBg}>
             <div style={{ fontSize: 36, paddingTop: 50, paddingLeft: 50 }}>
-                My Resume + Highlights
+                My CV
             </div>
             <hr style={{ width: "90%" }} />
             <div style={{ paddingLeft: 50, paddingTop: 30, paddingRight: 50 }}>
@@ -82,7 +82,8 @@ const Resume = () => {
                 <div style={{ paddingLeft: 50, paddingBottom: 75 }}>
                     <div style={bigHeader}> Awards</div>
                     <div style={medHeader}>UCLA Engineering Achievement Award for Student Welfare (2021)</div>
-                    <div style={medHeader}>UCLA Regents Scholar (2017)</div>
+                    <div style={medHeader}>UCLA Regents Scholarship (2017)</div>
+                    <div style={medHeader}>Scripps Ranch Women's Club Scholarship (2017)</div>
                     <div style={medHeader}>Gold Key, Scholastic Art and Writing Awards - Short Story (2016)</div>
                     <div style={medHeader}>Branch Awardee, 18th annual Student Writing for Literacy Essay Contest - Scripps Miramar Ranch Library (2015)</div>
                 </div>
