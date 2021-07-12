@@ -72,7 +72,7 @@ const Resume = () => {
                     <div style={medHeader}>UCLA Regents Scholar Society Family Head (2018-2019)</div>
                     <div style={text}>Family leader for a group of ~30 mentors + mentees.</div>
                     <br />
-                    <div style={medHeader}>Panels</div>
+                    <div style={medHeader}>Events</div>
                     <div style={{ marginLeft: 10, fontSize: 18 }}>
                         <li>[Panelist] "Taking a Seat at the Table", UC Berkeley x Stanford x UC Davis x UCSD x UCLA Women in Computing Panel (2021)</li>
                         <li>[Panelist] UCLA Discover Engineering (2020)</li>
