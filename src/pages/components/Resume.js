@@ -63,6 +63,9 @@ const Resume = () => {
                     <div style={medHeader}>UCLA ACM-W, President (2020-2021)</div>
                     <div style={text}>Managed UCLA's ACM-W chapter during the club's temporary transition to an online format due to COVID-19.</div>
                     <br />
+                    <div style={medHeader}>QWER Hacks Founding Member + Collaborator (2020, 2021)</div>
+                    <div style={text}>As part of ACM-W, hosted workshops for MLH's first LGBTQIA+ hackathon during its first and second year.</div>
+                    <br />
                     <div style={medHeader}>CS33 Logistical Head Learning Assistant (April 2020-June 2020)</div>
                     <div style={text}>Managed the logistics for the CS33 Learning Assistant (LA) Program at UCLA.</div>
                     <br />
