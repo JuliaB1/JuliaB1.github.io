@@ -37,19 +37,29 @@ const Misc = () => {
                 Other Stuff
             </div>
             <hr style={{ width: "90%" }} />
-            <div style={{ display: "flex", flexDirection: "column", paddingRight: 20 }}>
+            <div style={{ display: "flex", flexDirection: "column", paddingRight: 50 }}>
                 <div style={{ paddingLeft: 50, paddingBottom: 75, paddingTop: 50 }}>
                     <div style={bigHeader}> Writing ✍️</div>
                     <div style={medHeader}>
                         <a href={tbb} style={{ color: "white" }}>
-                            "The Brown Box", Scholastic Art and Writing Awards 2016 Short Story Submission
+                            "The Brown Box", 2016 Scholastic Art and Writing Awards Short Story Submission
                         </a>
                     </div>
                 </div>
                 <div style={{ paddingLeft: 50, paddingBottom: 75 }}>
                     <div style={bigHeader}> Music Taste 🎵</div>
                     <div style={medHeader}>
-                        I don't make music, but if you're curious, check out <a href="https://open.spotify.com/user/0kb6wsskfitamfbhom1slzzx1?si=TumZRFIASeW-QwGqB7sKng&dl_branch=1" style={{ color: "white" }}>my Spotify</a> to see/judge my music taste :)
+                        I don't make music, but if you're curious, check out <a href="https://open.spotify.com/user/0kb6wsskfitamfbhom1slzzx1?si=TumZRFIASeW-QwGqB7sKng&dl_branch=1" style={{ color: "white" }}>my Spotify</a> to see/judge my music taste :')
+                    </div>
+                </div>
+                <div style={{ paddingLeft: 50, paddingBottom: 75 }}>
+                    <div style={bigHeader}>Fun Fact ☺️</div>
+                    <div style={medHeader}>
+                        In high school, I wrote a story (that wound up being 153 Word document
+                        pages long) based off of a narrative my friends and I came up with while
+                        running during P.E. in our sophomore year. It involved
+                        a talking bear, magic potions, and the ability to turn halfway into an
+                        electric eel.
                     </div>
                 </div>
             </div>
