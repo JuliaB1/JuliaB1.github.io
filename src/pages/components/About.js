@@ -21,7 +21,7 @@ const About = () => {
             <hr style={{ width: "90%" }} />
             <div style={{ paddingBottom: 50, paddingLeft: 50, fontSize: 22, paddingRight: 50 }}>
                 <ul>
-                    <li>I'll be starting work as a software engineer at Facebook in August 2021.</li>
+                    <li>I'm currently a software engineer at Facebook.</li>
                     <li>I love to cook, hike, crochet, listen to music, write, play the occasional video game, and watch aesthetic cooking videos on YouTube.</li>
                     <li>I've been a Nintendo nerd since age 6 when I first played Pokémon Sapphire.</li>
                     <li>Milk is my favorite beverage.</li>
